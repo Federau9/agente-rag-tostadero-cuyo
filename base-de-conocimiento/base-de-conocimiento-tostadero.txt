@@ -1,0 +1,49 @@
+TOSTADERO CUYO - BASE DE CONOCIMIENTO DE SOPORTE (documento ficticio para el proyecto final)
+Versión 1.0 - Tostadero Cuyo es un emprendimiento de café de especialidad de San Juan, Argentina, que vende online a todo el país.
+
+## 1. SOBRE TOSTADERO CUYO
+Tostamos café de especialidad en pequeños lotes todas las semanas. Vendemos café en grano y molido, accesorios de preparación (filtros, jarras, prensas francesas) y una suscripción mensual. Atendemos por el chat de la web y por mail. Horario de atención humana: lunes a viernes de 9 a 18 h (hora Argentina). Fuera de ese horario responde el asistente virtual y las consultas que requieren una persona se contestan el siguiente día hábil.
+
+## 2. PRODUCTOS Y PRESENTACIONES
+El café se vende en paquetes de 250 g, 500 g y 1 kg. Orígenes disponibles: Colombia Huila (notas a chocolate y caramelo), Brasil Cerrado (notas a nuez y cacao) y Etiopía Guji (notas florales y cítricas). Todos son café 100% arábica, sin mezclas ni aditivos.
+Precios de referencia (pueden actualizarse en la web): 250 g $9.800, 500 g $18.500, 1 kg $35.000.
+El café se tuesta por pedido: la fecha de tueste figura en el paquete y el café sale como máximo 5 días después de tostado.
+Conservación: guardar en un lugar fresco y seco, lejos de la luz, con el paquete bien cerrado. No es necesario refrigerarlo. Consumir dentro de los 30 a 40 días posteriores al tueste para mejor sabor.
+
+## 3. MOLIENDA
+Al comprar se elige el tipo de molienda: en grano, fina (espresso y moka), media (filtro, V60, cafetera de goteo) o gruesa (prensa francesa y cold brew). Si el cliente no sabe cuál elegir, recomendar: espresso o moka = fina; cafetera de filtro o V60 = media; prensa francesa = gruesa. Una vez molido el café no se puede cambiar el tipo de molienda; por eso el cambio por molienda equivocada elegida por el cliente no está incluido en la política de devoluciones (ver sección 7), pero se evalúa caso por caso por una persona del equipo.
+
+## 4. ENVÍOS Y PLAZOS
+Enviamos a todo el país por Correo Argentino y Andreani. Los pedidos se despachan de lunes a viernes; los pedidos confirmados antes de las 14 h salen el mismo día hábil, y los posteriores al día hábil siguiente.
+Plazos de entrega estimados desde el despacho: San Juan capital y Gran San Juan 24 a 48 h hábiles; resto de Cuyo (Mendoza, San Luis) 2 a 4 días hábiles; resto del país 3 a 7 días hábiles.
+Costo de envío: se calcula en el carrito según código postal. El envío es gratis en compras desde $60.000 a cualquier punto del país.
+Seguimiento: al despachar se envía por mail el número de seguimiento del transportista. También se puede consultar el estado del pedido con su número (formato TC-0000).
+Retiro por el tostadero: no disponible actualmente.
+Un pedido se considera demorado si pasaron más días hábiles que el máximo informado para su zona. En ese caso se deriva a una persona del equipo para gestionar el reclamo con el transportista.
+Cambio de dirección: solo es posible antes del despacho. Después del despacho, el cambio debe gestionarse con el transportista y requiere que una persona del equipo intervenga.
+
+## 5. MEDIOS DE PAGO
+Aceptamos Mercado Pago (tarjetas de crédito y débito, dinero en cuenta) y transferencia bancaria. Pagando por transferencia hay 10% de descuento sobre el total de los productos. Con tarjeta de crédito se ofrecen hasta 3 cuotas sin interés. El pedido se confirma cuando se acredita el pago; las transferencias se acreditan dentro de las 24 h hábiles posteriores a enviar el comprobante.
+Si un cliente informa que se le cobró dos veces, que el pago figura rechazado pero se descontó el dinero, o que pagó y el pedido no figura confirmado, derivar a una persona del equipo con prioridad alta.
+
+## 6. FACTURACIÓN
+Emitimos factura C (somos emprendimiento monotributista) por cada compra. La factura se envía por mail junto con la confirmación del despacho. Si el cliente necesita la factura con CUIT, debe informar su CUIT y razón social antes del despacho: derivar a una persona del equipo.
+
+## 7. CAMBIOS Y DEVOLUCIONES
+Arrepentimiento de compra: el cliente puede arrepentirse dentro de los 10 días corridos desde que recibe el producto, siempre que el café esté sellado y sin abrir (accesorios sin uso y en su empaque original). El costo del envío de devolución lo cubre el cliente. Una persona del equipo coordina cada devolución; el asistente NO aprueba ni promete reembolsos.
+Producto dañado, equivocado o faltante: el cliente debe reclamar dentro de las 48 h de recibido el pedido, adjuntando fotos del paquete y del producto. Tostadero Cuyo se hace cargo del reemplazo o reembolso. Este tipo de reclamo siempre se deriva a una persona del equipo con prioridad alta.
+Café abierto: no se aceptan devoluciones por cuestiones de sabor o preferencia personal, por tratarse de un producto perecedero. Si hay disconformidad, una persona del equipo puede evaluar el caso.
+
+## 8. SUSCRIPCIÓN MENSUAL
+La suscripción incluye un paquete de 250 g o 500 g por mes con un origen distinto cada vez o el origen que el cliente elija, con 10% de descuento sobre el precio de lista y envío gratis. El cobro es automático el día 1 de cada mes mediante Mercado Pago. Se puede pausar o cancelar en cualquier momento avisando antes del día 25 del mes anterior para que el cambio rija desde el mes siguiente. El asistente puede informar estas condiciones, pero la pausa o cancelación la realiza una persona del equipo.
+
+## 9. PEDIDOS MAYORISTAS Y CAFETERÍAS
+Para compras mayoristas (desde 5 kg por pedido), cafeterías y regalos corporativos hay lista de precios especial. Estas consultas siempre se derivan a una persona del equipo con prioridad media.
+
+## 10. PREGUNTAS FRECUENTES
+- ¿El café tiene aditivos o azúcar? No. Es café arábica puro, tostado sin agregados.
+- ¿Tienen café descafeinado? Actualmente no.
+- ¿Puedo regalar un pedido? Sí; en el carrito se puede cargar la dirección de otra persona y un mensaje. No incluimos tarjeta impresa.
+- ¿Hacen envíos al exterior? No, solo dentro de Argentina.
+- ¿Qué pasa si no hay nadie para recibir el pedido? El transportista deja un aviso e intenta nuevamente o lo deja en sucursal; el cliente debe retirarlo con su DNI.
+- ¿Cómo sé cuál es mi número de pedido? Está en el mail de confirmación de compra, con formato TC-0000 (TC y cuatro números).

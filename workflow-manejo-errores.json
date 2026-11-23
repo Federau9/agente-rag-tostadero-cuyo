@@ -1,0 +1,71 @@
+{
+  "name": "Manejo de errores - Tostadero Cuyo",
+  "nodes": [
+    {
+      "parameters": {
+        "content": "### Workflow de errores\nSe asocia al principal en *Settings → Error workflow*. Cualquier falla no controlada envía un mail al dueño con el nodo y el detalle.",
+        "height": 140,
+        "width": 520,
+        "color": 3
+      },
+      "id": "00005001-0000-4000-8000-000000005001",
+      "name": "Nota",
+      "type": "n8n-nodes-base.stickyNote",
+      "typeVersion": 1,
+      "position": [
+        -60,
+        -140
+      ]
+    },
+    {
+      "parameters": {},
+      "id": "00005002-0000-4000-8000-000000005002",
+      "name": "Error Trigger",
+      "type": "n8n-nodes-base.errorTrigger",
+      "typeVersion": 1,
+      "position": [
+        0,
+        60
+      ]
+    },
+    {
+      "parameters": {
+        "resource": "message",
+        "operation": "send",
+        "sendTo": "REEMPLAZAR@tu-correo.com",
+        "subject": "=⚠️ Falló el workflow: {{ $json.workflow.name }}",
+        "message": "=Nodo: {{ $json.execution.lastNodeExecuted }}\nError: {{ $json.execution.error.message }}\nEjecución: {{ $json.execution.url }}\nModo: {{ $json.execution.mode }}",
+        "options": {
+          "appendAttribution": false
+        }
+      },
+      "id": "00005003-0000-4000-8000-000000005003",
+      "name": "Mail de alerta",
+      "type": "n8n-nodes-base.gmail",
+      "typeVersion": 2.1,
+      "position": [
+        280,
+        60
+      ]
+    }
+  ],
+  "connections": {
+    "Error Trigger": {
+      "main": [
+        [
+          {
+            "node": "Mail de alerta",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "pinData": {},
+  "settings": {
+    "executionOrder": "v1"
+  },
+  "active": false,
+  "tags": []
+}
